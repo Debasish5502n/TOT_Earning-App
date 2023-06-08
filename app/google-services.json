@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573308590725",
+    "project_id": "tot-earning-app",
+    "storage_bucket": "tot-earning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573308590725:android:af4a2bf803ac08a79127ec",
+        "android_client_info": {
+          "package_name": "com.friends.tot_earning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573308590725-c7ui4qva9hik5i4gtaskvasjoutrec2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmBIj_pPLSPTfu7d-1_l67lET4hpK-QIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573308590725-c7ui4qva9hik5i4gtaskvasjoutrec2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
